@@ -5,7 +5,8 @@
 ## Install and Run
 ```
 # Install
-npm install express mysql2
+npm init -y
+npm install express
 # Run
 node server.js
 ```
